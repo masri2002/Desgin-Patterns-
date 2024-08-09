@@ -1,9 +1,9 @@
-package org.digitinary.training;
+package org.digitinary.training.pizza_example;
 
-import org.digitinary.training.creator.ChicagoStylePizzaStore;
-import org.digitinary.training.creator.NYStylePizzaStore;
-import org.digitinary.training.creator.PizzaStore;
-import org.digitinary.training.product.Pizza;
+import org.digitinary.training.pizza_example.creator.ChicagoStylePizzaStore;
+import org.digitinary.training.pizza_example.creator.NYStylePizzaStore;
+import org.digitinary.training.pizza_example.creator.PizzaStore;
+import org.digitinary.training.pizza_example.product.Pizza;
 
 public class PizzaOrders {
     public static void main(String[] args) {

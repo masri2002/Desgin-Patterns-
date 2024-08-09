@@ -1,4 +1,4 @@
-package org.digitinary.training.product;
+package org.digitinary.training.pizza_example.product;
 
 import java.util.ArrayList;
 

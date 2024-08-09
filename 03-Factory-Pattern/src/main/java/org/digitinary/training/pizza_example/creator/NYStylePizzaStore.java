@@ -1,10 +1,10 @@
-package org.digitinary.training.creator;
+package org.digitinary.training.pizza_example.creator;
 
-import org.digitinary.training.product.NYStylePepperoniPizza;
-import org.digitinary.training.product.Pizza;
-import org.digitinary.training.product.NYStyleCheesePizza;
-import org.digitinary.training.product.NYStyleClamPizza;
-import org.digitinary.training.product.NYStyleVeggiePizza;
+import org.digitinary.training.pizza_example.product.NYStylePepperoniPizza;
+import org.digitinary.training.pizza_example.product.Pizza;
+import org.digitinary.training.pizza_example.product.NYStyleCheesePizza;
+import org.digitinary.training.pizza_example.product.NYStyleClamPizza;
+import org.digitinary.training.pizza_example.product.NYStyleVeggiePizza;
 
 public class NYStylePizzaStore extends PizzaStore{
     Pizza pizza;
